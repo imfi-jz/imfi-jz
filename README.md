@@ -1,14 +1,3 @@
-<!---
-- 👋 Hi, I’m @imfi-jz
-- 👀 I’m interested in ...
-Music, coding, outdoor activities (running, parkour), mental health, emotions.
-- 🌱 I’m currently learning ...
-Functional programming using Haxe.
-- 💞️ I’m looking to collaborate on ...
-Making a hot cup of tea.
-- 📫 How to reach me ...
-Message me on uh, SoundCloud.
+[Software developer](https://www.spigotmc.org/members/jokerzappie.244334/#resources), [music producer](https://www.soundcloud.com/jokerzappie), [content creator](https://www.youtube.com/user/JokerZappie), [streamer](https://www.twitch.tv/jokerzappie). Loves nature and going outside.
 
-imfi-jz/imfi-jz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src="https://panels.twitch.tv/panel-28008197-image-775461ad-8d83-49cb-9d9a-988c69474054">](https://discord.gg/2KedGjpQMR)
